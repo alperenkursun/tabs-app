@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.container{
+    width: 1000px !important;
+    margin: 0 auto !important;
+}
+
+img{
+    width: 100% !important;
+}
